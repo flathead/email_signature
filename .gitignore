@@ -2,6 +2,5 @@
 /node_modules/
 /tmp/
 .DS_Store
-/dist
 IDEAS.md
 npm_debug.log
