@@ -130,3 +130,17 @@ span {
   margin-top: calc(18px * 2);
   margin-bottom: 18px;
 }
+
+.mf_pdiv {
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.mf_p {
+  margin: 0;
+}
+
+.mf_b {
+  font-weight: 600;
+}
